@@ -1,23 +1,15 @@
-# nuxt-trial-2021
+# 2021 Vue NuxtJS + Vuex CRUD Trial
 
-> nuxt trial 2021 for vue
+### How to start locally
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
+```js
+// Start API first
+npx github:johnlindquist/todos-api
+// Then start UI:
+yarn && yarn run dev
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+### Leave your comments:
+<a href="mailto:damonwu0605@gmail.com">here</a>
 
+Cheers ~
